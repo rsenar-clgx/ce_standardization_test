@@ -1,0 +1,6 @@
+dev:
+  mode: "enable"
+int:
+  mode: "debug"
+prd:
+  mode: "debug"

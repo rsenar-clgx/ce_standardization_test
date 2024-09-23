@@ -6,3 +6,4 @@ int:
   version: v0.0.4
 prd:
   mode: "debug"
+  version: v0.0.4

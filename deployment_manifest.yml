@@ -1,6 +1,6 @@
 dev:
   mode: "enable"
-  version: v0.0.12
+  version: v0.0.13
 int:
   mode: "debug"
 prd:

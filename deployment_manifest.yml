@@ -3,5 +3,6 @@ dev:
   version: v0.0.4
 int:
   mode: "debug"
+  version: v0.0.4
 prd:
   mode: "debug"

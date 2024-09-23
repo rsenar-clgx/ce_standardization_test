@@ -3,6 +3,6 @@ dev:
   version: v0.0.19
 int:
   mode: "debug"
-  version: v0.0.18-pre-release
+  version: v0.0.19-pre-release
 prd:
   mode: "debug"
